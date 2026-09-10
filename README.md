@@ -9,11 +9,9 @@ Nested Tar archives have been uncompressed in the [archive_files](/archive_files
 
 # Content
 # Unknown
-- **JACKLADDER** 
+- **JACKLADDER** Accompanies 'jackladderhelper', which functions as a simple port binder to facilitate network connections, as for the actual purpose of JACKLADDER is still unknown.
 - **DAMPCROWD**
 - **ELDESTMYDLE**
-- **SUAVEEYEFUL**
-- **WATCHER**
 - **YELLOWSPIRIT**
 
 # Misc
@@ -72,6 +70,7 @@ Nested Tar archives have been uncompressed in the [archive_files](/archive_files
 - **prout** (ab)use of `pcnfs` RPC program (version 2 only) (1999)
 - **slugger**: various printers RCE, looks like `CVE-1999-0078`
 - **statdx** Redhat Linux 6.0/6.1/6.2 rpc.statd remote root exploit (IA32)
+- **SUAVEEYEFUL** FreeBSD software implant targeting MiraPoint email appliances
 - **telex** Telnetd RCE for RHL?  `CVE-1999-0192`?
 - **toffeehammer** RCE for `cgiecho` part of `cgimail`, exploits fprintf
 - **VS-VIOLET** Solaris 2.6 - 2.9, something related to [XDMCP](https://en.wikipedia.org/wiki/X_display_manager_(program_type)#X_Display_Manager_Control_Protocol)
@@ -97,6 +96,7 @@ Nested Tar archives have been uncompressed in the [archive_files](/archive_files
 - **NOPEN** Backdoor? A RAT or post-exploitation shell consisting of a client and a server that encrypts data using RC6 [source](http://electrospaces.blogspot.nl/p/nsas-tao-division-codewords.html)** SunOS5.8
 - **SAMPLEMAN / ROUTER TOUCH** Clearly hits Cisco via some sort of redirection via a tool on port 2323... (thanks to @cynicalsecurity)
 - **SECONDDATE** Implant for Linux/FreeBSD/Solaris/JunOS
+- **WATCHER** Tipping tool related to SECONDDATE operations
 - **SHENTYSDELIGHT** Linux keylogger
 - **SIDETRACK** implant used for **PITCHIMPAIR**
 - **SIFT** Implant for Solaris/Linux/FreeBSD
